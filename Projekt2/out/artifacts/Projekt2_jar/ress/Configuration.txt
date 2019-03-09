@@ -1,0 +1,14 @@
+
+/pomoc.png
+/Wyniki.png
+/Menu.png
+/sciana.png
+/portal.png
+/gracz.png
+/przeszkoda.png
+/bonus.png
+/apteczka.png
+
+ress/Level1.txt
+ress/Level2.txt
+ress/Level3.txt
